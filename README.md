@@ -1,3 +1,3 @@
-# swiftUI_store_place_app
+# swiftUI (Apple) store place app
 
 App with places and activity
